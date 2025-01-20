@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @DarikMT
-- 👀 I’m interested in 
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Electrical and Computer Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me email-darikmulatutegegne@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: ...
 
 <!---
 DarikMT/DarikMT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
